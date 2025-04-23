@@ -1,4 +1,3 @@
->
 > Hello
  1. # Responsive clone Manjaro website using tailwind and html
  2. # Clone site url : https://myselfanandvp.github.io/Manjaro_org_clone/
