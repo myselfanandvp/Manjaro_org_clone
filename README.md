@@ -1,4 +1,4 @@
-~~~
+
 
 1. # Responsive clone Manjaro website using tailwind and html
 
@@ -7,3 +7,4 @@
 3. # Orginal site url: https://manjaro.org/
 ~~~
 4. ## Screen shot of the original website: ![Image](https://github.com/user-attachments/assets/74937542-b1d3-4dc4-a76a-f9116d01b093)
+~~~
